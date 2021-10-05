@@ -9,5 +9,5 @@ In the project you can learn Quran easyly, Many islamic services avalable in thi
 ### Features
 
 They are Many type of book list in this project. Learning Quran easyly.You can learn about Sunnah,Satal, Kurbani,Hadis Book etc.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [Github Link](https://github.com/limon10230/learn-quran) to view it in the browser.
 
