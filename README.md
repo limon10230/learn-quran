@@ -1,6 +1,6 @@
 # Learn Quran
 
-This project was bootstrapped with [Create React App](https://github.com/limon10230/learn-quran).
+This project was bootstrapped with [Learn Quran](https://learn-quran-bd.netlify.app/home).
 
 ## Why this project we need
 
