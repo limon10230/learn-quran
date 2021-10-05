@@ -1,4 +1,4 @@
-#Learn Quran
+# Learn Quran
 
 This project was bootstrapped with [Create React App](https://github.com/limon10230/learn-quran).
 
